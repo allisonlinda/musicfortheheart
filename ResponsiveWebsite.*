@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+<meta carset = “UTF-8”>
+<meta name =“viewport” content=“width-device-width, intitial-scale-1”>
+<title>Music for the Heart</title>
+<link href=“css/styles.css” rel=“stylesheet” type=“text/css”>
+</head>
+
+<body>
+
+<header>
+	<im src=“logo.jpg” alt=“Music for the Heart logo” class=“logo”>
+	<nav>
+		<ul>
+			<li><a href=“”>Home</a></li>
+			<li><a href=“”>About</a></li>
+			<li><a href=“”>Contact</a></li>
+		</ul>
+	</nav>
+</header>
+
+<section class=“home-hero”>
+	<h1 class=“title”>Music lessons and vocal coaching 
+		<span>for everyone!</span>
+	</h1>
+	<a href=“” class-“button”>Learn More</a>
+</section>
+
+
+
+<section class=“home-about”>
+	<div class=“home-about-textbox”>
+		<h1>who we are</h1>
+		<p>description on business </p>
+		<p><strong> lalalala </strong>
+	</div>
+
+</section>
+
+<section class=“what we teach”</h1>
+
+<figure>
+	<img src=“” alt=“guitar”>
+	<figcaption class=“port-desc”>
+		<p>Guitar lessons</p>
+		<a href=“” class=“button button-accent button small”>
+	</figcaption>Lessons</a>
+
+</figure>
+
+<figure>
+	<img src=“” alt=“guitar”>
+	<figcaption class=“port-desc”>
+		<p>Piano Lessons</p>
+		<a href=“” class=“button button-accent button small”>Lessons</a>
+	</figcaption>
+
+</figure>
+
+<figure>
+	<img src=“” alt=“guitar”>
+	<figcaption class=“port-desc”>
+		<p>Ukulele Lessons</p>
+		<a href=“” class=“button button-accent button small”>Lessons</a>
+	</figcaption>
+
+</figure>
+
+<figure>
+	<img src=“” alt=“guitar”>
+	<figcaption class=“port-desc”>
+		<p>Voice lessons</p>
+		<a href=“” class=“button button-accent button small”>Lessons</a>
+	</figcaption>
+
+</figure>
+
+
+</section>
+
+<footer>
+
+	<div class=“spam-3>
+		<p> hello there is hope for you!</p>
+	</div>
+
+ <div class=“spam-1”>
+	<ul>
+		<li>About</li>
+		<li>Lessons</li>
+		<li>Music</li>
+		<li>Coaching</li>
+		<li>Materials</li> 
+	</ul>
+  </div>
+
+</body>
+</html>
